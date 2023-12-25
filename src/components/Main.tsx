@@ -10,6 +10,25 @@ const Main = () => {
           <AdCard />
           <AdCard />
           <AdCard />
+          <AdCard />
+          <AdCard />
+          <AdCard />
+          <AdCard />
+          <AdCard />
+          <AdCard />
+          <AdCard />
+          <AdCard />
+          <AdCard />
+          <AdCard />
+          <AdCard />
+          <AdCard />
+          <AdCard />
+          <AdCard />
+          <AdCard />
+          <AdCard />
+          <AdCard />
+          <AdCard />
+          <AdCard />
 
         </div>
     </div>

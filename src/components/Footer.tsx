@@ -36,7 +36,7 @@ const Footer = () => {
             <CiTwitter size={30} />
             <CiYoutube size={30} />
           </div>
-          <div className='flex gap-4 pt-5 '>
+          <div className='lg:flex gap-4 pt-5 '>
             <img className="h-[40px]" src="playstore_2x.webp" alt="PlayStore" />
             <img className="h-[40px]" src="appstore_2x.webp" alt="AppStore" />
           </div>
